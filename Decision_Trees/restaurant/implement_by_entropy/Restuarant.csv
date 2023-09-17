@@ -1,0 +1,13 @@
+﻿alternative,bar,friday,hungry,patron,price,rain,reservation,type,est,Goal
+Yes,no,no,yes,some,3,no,yes,French,0 -10,1
+Yes,no,no,yes,full,1,no,no,Thai,30 - 60,0
+no,yes,no,no,some,1,no,no,Burger,0 - 10,1
+Yes,no,yes,yes,full,1,yes,no,Thai,10_30,1
+Yes,no,yes,no,full,3,no,yes,French,60>,0
+no,yes,no,yes,some,2,yes,yes,Italian,0 -10,1
+no,yes,no,no,None,1,yes,no,Burger,0 -10,0
+no,no,no,yes,some,2,yes,yes,Thai,0 -10,1
+no,yes,yes,no,full,1,yes,no,Burger,60>,0
+Yes,yes,yes,yes,full,3,no,yes,Italian,10_30,0
+no,no,no,no,None,1,no,no,Thai,0 -10,0
+Yes,yes,yes,yes,full,1,no,no,Burger,30 - 60,1
